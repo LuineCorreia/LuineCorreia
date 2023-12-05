@@ -1,0 +1,4 @@
+- 👋 Oiii,Eu sou @LuineCorreia
+- 👀 Eu estou interessada em aprender mais sobre programação em geral.
+- 🌱 Atualmente eu estou aprendendo Java Script 
+- 💞️ Eu quero colaborar em projetos que construam meu conhecimento pessoal e ajudar a minha equipe.
